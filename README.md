@@ -1,4 +1,4 @@
-# Fashion MNIST Classification with an FFNN using NumPy
+# Fashion MNIST Classification with a FFNN using NumPy
 
 This project demonstrates the implementation of a feedforward neural network from scratch using NumPy. It's designed as a step-by-step guide to understanding the core concepts of neural networks, including:
 
